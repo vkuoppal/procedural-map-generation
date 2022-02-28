@@ -1,0 +1,14 @@
+#minigolf-container {
+  width: 1000px;
+  height: 600px;
+  background-color: green;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -300px;
+  margin-left: -500px;
+}
+
+body {
+  background-color: #a6b2f5;
+}

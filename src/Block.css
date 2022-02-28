@@ -1,0 +1,6 @@
+.minigolf-block {
+  width: 20px;
+  height: 20px;
+  background-color: darkgray;
+  position: absolute;
+}
